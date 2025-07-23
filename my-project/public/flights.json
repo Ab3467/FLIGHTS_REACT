@@ -1,0 +1,68 @@
+{
+    "Flights": [
+        {
+            "Id": 1234,
+            "Type": "Commercial",
+            "AircraftType":"Aeroplane",
+            "ReportedBy": "Station Alpha",
+            "Coordinates": [
+                {
+                    "TimeStamp": "2023-05-14 13:08:10.109",
+                    "Direction": 240,
+                    "Height": 5000,
+                    "Speed": 450,
+                    "Latitude": 31.123,
+                    "Longitude": 71.456
+                },
+                {
+                    "TimeStamp": "2023-05-14 13:09:10.109",
+                    "Direction": 240,
+                    "Height": 5500,
+                    "Speed": 430,
+                    "Latitude": 31.223,
+                    "Longitude": 71.456
+                },
+                {
+                    "TimeStamp": "2023-05-14 13:10:10.109",
+                    "Direction": 240,
+                    "Height": 6000,
+                    "Speed": 480,
+                    "Latitude": 31.323,
+                    "Longitude": 71.456
+                }
+            ]
+        },
+        {
+            "Id": 789,
+            "Type": "Special",
+            "AircraftType":"Helicopter",
+            "ReportedBy": "Station Beta",
+            "Coordinates": [
+                {
+                    "TimeStamp": "2023-05-14 13:08:10.109",
+                    "Direction": 240,
+                    "Height": 5000,
+                    "Speed": 450,
+                    "Latitude": 31.123,
+                    "Longitude": 71.456
+                },
+                {
+                    "TimeStamp": "2023-05-14 13:09:10.109",
+                    "Direction": 240,
+                    "Height": 5500,
+                    "Speed": 430,
+                    "Latitude": 31.223,
+                    "Longitude": 71.456
+                },
+                {
+                    "TimeStamp": "2023-05-14 13:10:10.109",
+                    "Direction": 240,
+                    "Height": 6000,
+                    "Speed": 480,
+                    "Latitude": 31.323,
+                    "Longitude": 71.456
+                }
+            ]
+        }
+    ]
+}
